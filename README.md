@@ -1,24 +1,31 @@
-Hello! I'm Gurpreet <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-I’m a co-op Data Scientist at Canadian Tire Financial Services, leveraging advanced analytics and machine learning to drive data-driven decision-making and innovative solutions.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gurpreet17&label=Profile%20views&color=10b40e&style=flat-square" alt="gurpreet17" /> </p>
 
-🎓 Education: Honours Bachelor’s in Computer Science at York University
+## 👋 Hello! I'm Gurpreet
+- 🎓 Currently a **Data Scientist Co-op** at Canadian Tire Financial Services, focusing on **data-driven decision-making**, **machine learning**, and **credit risk modeling**.
+- Pursuing a **BSc Honours in Computer Science** at York University.
+- 🤖 Passionate about implementing **Machine Learning and Deep Learning models** to solve complex business challenges and drive growth.
+- 💻 I enjoy **developing software solutions** to optimize business processes and create scalable models.
+- 💬 Feel free to discuss **Data Science, Machine Learning, Model Deployment**, or any software engineering topics. Let's connect!
 
-💡 Focus: Machine Learning, Deep Learning, and Software Development
+- 📧 Reach out to me for collaborations or inquiries at **gurpreet.singh@mail.yorku.ca**.
 
-🏆 Expertise: End-to-end ML pipelines, from data preprocessing to production deployment
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.sas.com" target="_blank" rel="noreferrer"> <img src="https://www.sas.com/etc/designs/sas/logo/sas-logo.svg" alt="sas" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="40" height="40"/> </a>
+</p>
 
-🌱 Learning: Always exploring new frameworks and cloud technologies (AWS, Azure, etc.)
-
-What I’m Working On
-Credit Risk Modeling using state-of-the-art ML techniques
-
-Model Deployment with Docker, AWS, and CI/CD pipelines
-
-Data Visualization & Analysis with Python (Pandas, NumPy, Matplotlib, etc.)
-
-Languages & Tools
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> </a> <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Azure-007FFF?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> </a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Seaborn-005C84?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/> </a> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> </a> </p>
-Projects & Portfolio
-Portfolio Website — Showcases my work in Data Science and Machine Learning.
-
-GitHub Projects — Explore my repositories to see real-world data pipelines, model deployments, and more.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/gurpreet17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurpreet17" height="30" width="40" /></a>
+  <a href="https://kaggle.com/gurpreet17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gurpreet17" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/fxgurpreet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gurpreet17" height="30" width="40" /></a>
+</p>
