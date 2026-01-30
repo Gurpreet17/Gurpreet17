@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurpreet17&label=Profile%20views&color=10b40e&style=flat-square" alt="gurpreet17" /> </p>
 
 ## 👋 Hello! I'm Gurpreet
-- 💼 Currently a **Data Scientist Co-op** at Canadian Tire Financial Services, focusing on **data-driven decision-making**, **machine learning**, and **credit risk modeling**.
+- 💼 Previous **Data Scientist Co-op** at Canadian Tire Financial Services, focusing on **data-driven decision-making**, **machine learning**, and **credit risk modeling**.
 - 🎓 Pursuing a **BSc Honours in Computer Science** at York University.
 - 🤖 Passionate about implementing **Machine Learning and Deep Learning models** to solve complex business challenges and drive growth.
 - 💻 I enjoy **developing software solutions** to optimize business processes, create scalable models, and leverage **cloud technologies** for enhanced performance and scalability.
